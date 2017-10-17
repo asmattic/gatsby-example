@@ -10,23 +10,17 @@
 
 A blog starter skeleton with advanced features for [Gatsby](https://github.com/gatsbyjs/gatsby/).
 
-## Why?
+## Gatsby Example Projects
 
-This project aims to provide a minimal for building GatsbyJS powered blogs.
+* [Atlassian learn git](https://www.atlassian.com/git)
+* [Segment Blog](https://segment.com/blog/)
+* [React docs](https://reactjs.org)
+* [React docs source](https://github.com/reactjs/reactjs.org)
+* [mParticle](https://www.mparticle.com/)
 
-It doesn't define any UI limitations in any way, and only gives you the basic components for SEO/Social Media/etc.
+## UI Framework
 
-You are free to use any UI framework/styling options available to you.
-
-NOTE: This project is a stripped down version of [Gatsby Material Starter](https://github.com/Vagr9K/gatsby-material-starter), but will evolve separately.
-
-## How can I use this?
-
-If you are a newcomer to Gatsby who's interested in the implementations of most needed features, this is a great place to start.
-
-If you are interested in a foundation for building ultra-fast websites, you can use this project as a "minimal" starter.
-
-[Demo website.](https://vagr9k.github.io/gatsby-advanced-starter/)
+[Grommet](http://grommet.io/docs/world-map)
 
 ## Features
 
